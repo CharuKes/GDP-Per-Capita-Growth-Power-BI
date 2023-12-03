@@ -1,4 +1,4 @@
-# GDP Per Capita Growth Patterns Analysis
+# GDP Per Capita Growth Patterns Analysis 
 
 ## Introduction
 Welcome to the GDP Per Capita Growth Patterns Analysis project. This analysis, conducted in Power BI, provides a comprehensive exploration of GDP per capita growth trends.
