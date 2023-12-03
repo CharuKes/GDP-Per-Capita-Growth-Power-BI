@@ -1,6 +1,6 @@
 # GloBox Project
 
-![GloBox Banner](https://github.com/CharuKes/globox_project/blob/main/data/globox.JPG)
+![GloBox Banner](https://github.com/CharuKes/globox_project/blob/main/data/globox.JPG) 
 
 ## Overview
 
