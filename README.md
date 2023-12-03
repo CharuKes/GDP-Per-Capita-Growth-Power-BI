@@ -16,7 +16,7 @@ This project covers regional analyses, top and bottom 10 country insights, overa
 
 ## GDP Trend and Forecast
 
-![GDP Trend and Forecast](https://github.com/CharuKes/GDP-Per-Capita-Growth-Power-BI/blob/master/Data/Trend.JPG)
+![GDP Trend and Forecast](https://github.com/CharuKes/GDP-Per-Capita-Growth-Power-BI/blob/master/PowerBI.JPG)
 
 ## Usage
 
