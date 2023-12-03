@@ -1,5 +1,3 @@
-<div align="center">
-
 # GDP Per Capita Growth Patterns Analysis
 
 ## Introduction
