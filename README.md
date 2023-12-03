@@ -14,9 +14,9 @@ This project covers regional analyses, top and bottom 10 country insights, overa
 - **Region-wise Trends and Forecast:** Delve into region-specific growth patterns and forecasts.
 - **Income Group Analysis (1961-2022):** Examine the growth patterns of income groups spanning from 1961 to 2022.
 
-## GDP Trend and Forecast
+## Power BI Dashboard
 
-![GDP Trend and Forecast](https://github.com/CharuKes/GDP-Per-Capita-Growth-Power-BI/blob/master/PowerBI.JPG)
+![Power BI Dashboard](https://github.com/CharuKes/GDP-Per-Capita-Growth-Power-BI/blob/master/PowerBI.JPG)
 
 ## Usage
 
